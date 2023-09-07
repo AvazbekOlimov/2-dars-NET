@@ -1,0 +1,14 @@
+C:\Users\EVOOLAPTOP\Desktop\.NET\project 1\2-dars\project 2\project 2\bin\Debug\net7.0\project 2.exe
+C:\Users\EVOOLAPTOP\Desktop\.NET\project 1\2-dars\project 2\project 2\bin\Debug\net7.0\project 2.deps.json
+C:\Users\EVOOLAPTOP\Desktop\.NET\project 1\2-dars\project 2\project 2\bin\Debug\net7.0\project 2.runtimeconfig.json
+C:\Users\EVOOLAPTOP\Desktop\.NET\project 1\2-dars\project 2\project 2\bin\Debug\net7.0\project 2.dll
+C:\Users\EVOOLAPTOP\Desktop\.NET\project 1\2-dars\project 2\project 2\bin\Debug\net7.0\project 2.pdb
+C:\Users\EVOOLAPTOP\Desktop\.NET\project 1\2-dars\project 2\project 2\obj\Debug\net7.0\project 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EVOOLAPTOP\Desktop\.NET\project 1\2-dars\project 2\project 2\obj\Debug\net7.0\project 2.AssemblyInfoInputs.cache
+C:\Users\EVOOLAPTOP\Desktop\.NET\project 1\2-dars\project 2\project 2\obj\Debug\net7.0\project 2.AssemblyInfo.cs
+C:\Users\EVOOLAPTOP\Desktop\.NET\project 1\2-dars\project 2\project 2\obj\Debug\net7.0\project 2.csproj.CoreCompileInputs.cache
+C:\Users\EVOOLAPTOP\Desktop\.NET\project 1\2-dars\project 2\project 2\obj\Debug\net7.0\project 2.dll
+C:\Users\EVOOLAPTOP\Desktop\.NET\project 1\2-dars\project 2\project 2\obj\Debug\net7.0\refint\project 2.dll
+C:\Users\EVOOLAPTOP\Desktop\.NET\project 1\2-dars\project 2\project 2\obj\Debug\net7.0\project 2.pdb
+C:\Users\EVOOLAPTOP\Desktop\.NET\project 1\2-dars\project 2\project 2\obj\Debug\net7.0\project 2.genruntimeconfig.cache
+C:\Users\EVOOLAPTOP\Desktop\.NET\project 1\2-dars\project 2\project 2\obj\Debug\net7.0\ref\project 2.dll
